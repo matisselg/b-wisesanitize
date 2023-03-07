@@ -1,0 +1,26 @@
+body {
+    font-family: 'Red Hat Display', sans-serif;
+    font-size: 100%;
+    margin-left: 2em;
+    margin-right: 2em;
+    padding-bottom: 1em;
+    margin-bottom: 1em;
+    width: 1035px;
+    /* original background color to match flyer - and used to make the gradient background-color: #336699;*/
+    background: rgb(51,102,153);
+    background: linear-gradient(0deg, rgba(51,102,153,1) 0%, rgba(245,244,244,1) 100%);
+}
+
+li {
+    list-style-type: none;
+}
+
+img {
+    max-width: 25%;
+    height: auto;
+    float: left;
+    margin-right: 20px;
+    margin-bottom: 10px;
+    border: 10px double #336699;
+    padding: 20px;
+}
